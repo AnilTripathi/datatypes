@@ -1,9 +1,9 @@
 # Java Data Types Exercises
 
 
-###### 
+###### EXAMPLES
 <ol>
-	[x] Feature 1   Write a Java program to convert temperature from Fahrenheit to Celsius degrees.
+	<li>- [x] Write a Java program to convert temperature from Fahrenheit to Celsius degrees.</li>
 	<li> <input type="checkbox" disabled />  Write a Java program that reads a number in inches and converts it to meters.</li>
 	<li><input type="checkbox" disabled /> Write a Java program that reads an integer between 0 and 1000 and adds all the digits in the integer.</li>
 	<li><input type="checkbox" disabled /> Write a Java program to convert minutes into years and days.</li>
