@@ -3,10 +3,10 @@
 
 
 <ol>
-	<li><i> - [ ]  Write a Java program to convert temperature from Fahrenheit to Celsius degrees.</i></li>
+	<li><i> :white_check_mark  Write a Java program to convert temperature from Fahrenheit to Celsius degrees.</i></li>
 	<li><i> <input type="checkbox" disabled />  Write a Java program that reads a number in inches and converts it to meters.</i></li>
-	<li><i> <input type="checkbox" disabled />  </i> Write a Java program that reads an integer between 0 and 1000 and adds all the digits in the integer.</li>
-	<li><i> <input type="checkbox" disabled />  </i> Write a Java program to convert minutes into years and days.</li>
+	<li>:white_check_mark Write a Java program that reads an integer between 0 and 1000 and adds all the digits in the integer.</li>
+	<li>:white_large_square Write a Java program to convert minutes into years and days.</li>
 	<li><i> <input type="checkbox" disabled />  </i> Write a Java program that prints the current time in GMT.</li>
 	<li><i> <input type="checkbox" disabled />  </i> Write a Java program to compute the body mass index (BMI).</li>
 	<li><i> <input type="checkbox" disabled />  </i> Write a Java program to take the user for a distance (in meters) and the time taken (as three numbers: hours, minutes, seconds), and display the speed, in meters per second, kilometers per hour and miles per hour (hint: 1 mile = 1609 meters).</li>
