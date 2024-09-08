@@ -2,6 +2,11 @@ package com.data.types;
 
 import java.util.Scanner;
 
+/**
+ * 
+ * 
+ * 
+ * **/
 public class ConvertFToC {
 	public static void main(String[] args) {
 		try (Scanner input = new Scanner(System.in)) {
