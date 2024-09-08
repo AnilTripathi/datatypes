@@ -5,8 +5,8 @@
 <ol>
 	<li>- [x] Write a Java program to convert temperature from Fahrenheit to Celsius degrees.</li>
 	<li>- [x] Write a Java program that reads a number in inches and converts it to meters.</li>
-	<li>- [ ] Write a Java program that reads an integer between 0 and 1000 and adds all the digits in the integer.</li>
-	<li>- [ ] Write a Java program to convert minutes into years and days.</li>
+	<li>- [x] Write a Java program that reads an integer between 0 and 1000 and adds all the digits in the integer.</li>
+	<li>- [x] Write a Java program to convert minutes into years and days.</li>
 	<li>- [ ] Write a Java program that prints the current time in GMT.</li>
 	<li>- [ ] Write a Java program to compute the body mass index (BMI).</li>
 	<li>- [ ] Write a Java program to take the user for a distance (in meters) and the time taken (as three numbers: hours, minutes, seconds), and display the speed, in meters per second, kilometers per hour and miles per hour (hint: 1 mile = 1609 meters).</li>
