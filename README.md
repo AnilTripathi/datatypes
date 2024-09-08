@@ -3,7 +3,7 @@
 
 
 <ol>
-	<li><i> <input type="checkbox" disabled />  Write a Java program to convert temperature from Fahrenheit to Celsius degrees.</i></li>
+	<li><i> - [ ]  Write a Java program to convert temperature from Fahrenheit to Celsius degrees.</i></li>
 	<li><i> <input type="checkbox" disabled />  Write a Java program that reads a number in inches and converts it to meters.</i></li>
 	<li><i> <input type="checkbox" disabled />  </i> Write a Java program that reads an integer between 0 and 1000 and adds all the digits in the integer.</li>
 	<li><i> <input type="checkbox" disabled />  </i> Write a Java program to convert minutes into years and days.</li>
