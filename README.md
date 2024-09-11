@@ -13,7 +13,7 @@
 	<li>- [x] Write a Java program that reads a number and displays the square, cube, and fourth power.</li>
 	<li>- [x] Write a Java program that accepts two integers from the user and prints the sum, the difference, the product, the average, the distance (the difference between the integers), the maximum (the largest of the two integers), and the minimum (the smallest of the two integers).</li>
 	<li>- [x] Write a Java program to break an integer into a sequence of digits.</li>
-	<li>- [ ] Write a Java program to test whether a given double/float value is a finite floating-point value or not.</li>
+	<li>- [x] Write a Java program to test whether a given double/float value is a finite floating-point value or not.</li>
 	<li>- [ ] Write a Java program to compare two signed and unsigned numbers.</li>
 	<li>- [ ] Write a Java program to compute the floor division and floor modulus of the given dividend and divisor.</li>
 	<li>- [ ] Write a Java program to extract the primitive type value from a given BigInteger value.</li>
